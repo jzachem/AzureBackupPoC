@@ -8,7 +8,7 @@
 
 # Account related variables 
 
-$ProvidedAccountUserName = "jzachem@gmail.com" 
+# $ProvidedAccountUserName = TODO - get the userid info from a local file not on GitHub.
 $ProvidedSubscriptionName = "MSDN Platforms"
 
 # Resource Group related variables 
